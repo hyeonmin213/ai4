@@ -74,10 +74,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0]:{"texts":["중국식 냉면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esquirekorea.co.kr%2Farticle%2F67862&psig=AOvVaw0nzftw8BYqdFXDWZ6Lhbo3&ust=1764115681209000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDbs5WBjJEDFQAAAAAdAAAAABAE"]
-    labels[1]:{"texts":["짜장면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.health.chosun.com%2Fsvc%2Fnews_view.html%3Fcontid%3D2024080201855&psig=AOvVaw3qlF0AHKkO_2a_MnDxaBss&ust=1764115906817000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCM5ICCjJEDFQAAAAAdAAAAABAE"]
-    labels[2]:{"texts":["짬뽕은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeniusjw.com%2F2610&psig=AOvVaw0U1OfRBBWl_K_1aAVsoB1q&ust=1764115936251000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCvpo-CjJEDFQAAAAAdAAAAABAE"]
-    labels[3]:{"texts":["탕수은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fhomecuisine.co.kr%2Fhc20%2F2073&psig=AOvVaw3Hm5MK2cpPZZXO0kunRpUz&ust=1764115983621000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDI46WCjJEDFQAAAAAdAAAAABAE"]
+    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esquirekorea.co.kr%2Farticle%2F67862&psig=AOvVaw0nzftw8BYqdFXDWZ6Lhbo3&ust=1764115681209000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDbs5WBjJEDFQAAAAAdAAAAABAE"]
+    labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.health.chosun.com%2Fsvc%2Fnews_view.html%3Fcontid%3D2024080201855&psig=AOvVaw3qlF0AHKkO_2a_MnDxaBss&ust=1764115906817000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCM5ICCjJEDFQAAAAAdAAAAABAE"]
+    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeniusjw.com%2F2610&psig=AOvVaw0U1OfRBBWl_K_1aAVsoB1q&ust=1764115936251000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCvpo-CjJEDFQAAAAAdAAAAABAE"]
+    labels[3] : {"texts" : ["탕수은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fhomecuisine.co.kr%2Fhc20%2F2073&psig=AOvVaw3Hm5MK2cpPZZXO0kunRpUz&ust=1764115983621000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDI46WCjJEDFQAAAAAdAAAAABAE"]
+    
 }
 
 # ======================
